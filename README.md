@@ -14,7 +14,10 @@ Error Calculation: The error can be calculated based on the readings of S2 and S
 In our robot, the PID controller takes the calculated error as input and adjusts the motor speeds accordingly to correct the path. The motor speed adjustments help steer the robot back towards the line, ensuring accurate and stable line following.
 This PID control mechanism allows the robot to smoothly follow the line, correcting its path based on real-time sensor inputs and the calculated error. Adjusting Kp, Ki, and Kd values is crucial for achieving optimal performance.
 
+## Here is a demonstration of the mini robo
 
+[![Curved Lines](https://img.youtube.com/vi/1QRYZWzfOks/0.jpg)](https://www.youtube.com/watch?v=1QRYZWzfOks)
+[![Crossing Lines](https://img.youtube.com/vi/77Q0gCPeaZU/0.jpg)](https://www.youtube.com/watch?v=77Q0gCPeaZU)
 
 
 
